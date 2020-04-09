@@ -1,4 +1,0 @@
-coucou, ceci est un test
-Ce fichier est créé directement depuis github.
-
-ce test est ajouté depuis Jupyter Hub
